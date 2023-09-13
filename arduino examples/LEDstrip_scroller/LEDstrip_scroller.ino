@@ -30,7 +30,7 @@ void setup()
 void loop()
 {
 
-  if (millis() - timer > interval) {
+  if (millis() - timer > interval) { // the code in this block runs every interval (100 milliseconds)
     timer = millis(); // Zero the timer to "now"
     
     i++;  //increment index variable

@@ -1,4 +1,4 @@
-/* Tone - barebone example | AIRLAB CCC#2
+/* Tone - barebone example | AIRLAB
 
    Tone function syntax:
    Tone(Pin, Frequency, OPTIONAL:Duration)
